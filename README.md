@@ -26,6 +26,4 @@ This project is a web-based Tic-Tac-Toe game that allows two players to play aga
 - HTML
 - CSS
 
-## Contributing
 
-Contributions to the Tic-Tac-Toe game are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
